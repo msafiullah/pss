@@ -1,0 +1,70 @@
+{
+ "data": [
+ {
+ "_id": {
+ "$oid": "56431eaa953e5ed58b991d36"
+ },
+ "id": "1204500286233701",
+ "message": "What do you think of Prof Kan Siew Ning?",
+ "created_time": "2015-11-10T05:51:10+0000",
+ "comments": [{ "from" : { "name" : "Rhotert Ai Nah" , "id" : "10203503028296080"} , "message" : "Two great leader🙏💖 RIP, Helmut Schmidt🙏" , "created_time" : "2015-11-11T07:46:50+0000" , "id" : "999141290148577_999146553481384" , "sentiment" : { "job_id" : "999141290148577_999146553481384" , "sentiment_score" : "0.5" , "sentiment_polarity" : "positive" , "category" : [ { "topic" : "Health_Problems" , "strength_score" : "0.50616366"}] , "theme" : [ { "theme" : "great leader" , "sentiment" : "0.6"} , { "theme" : "🙏💖" , "sentiment" : "0.4"}] , "entity" : [ { "entity" : "Helmut Schmidt" , "sentiment" : "0.5"}]}}]
+ },
+ {
+ "_id": {
+ "$oid": "56431ed6953e5ed58b991d37"
+ },
+ "id": "1204236096260120",
+ "comments": [],
+ "message": "[image]",
+ "created_time": "2015-11-09T17:05:31+0000"
+ },
+ {
+ "_id": {
+ "$oid": "56431ed6953e5ed58b991d38"
+ },
+ "id": "1204467789570284",
+ "message": "Comment your experiences in SMU SIS pls.",
+ "created_time": "2015-11-10T04:18:26+0000",
+ "comments": [
+ {
+ "from": {
+ "name": "Loh Ck",
+ "id": "10153443275594213"
+ },
+ "message": "i love it. cant get any better than this.",
+ "created_time": "2015-11-10T04:18:57+0000",
+ "id": "1204467789570284_1204467906236939",
+ "sentiment": {
+ "job_id": "1204467789570284_1204467906236939",
+ "sentiment_score": "0.45000002",
+ "sentiment_polarity": "positive"
+ }
+ },
+ {
+ "from": {
+ "name": "Farah Mustapha",
+ "id": "557689337715126"
+ },
+ "message": "It was okay. Pretty much boring. Can't wait to graduate yahoo!",
+ "created_time": "2015-11-10T04:19:36+0000",
+ "id": "1204467789570284_1204468052903591",
+ "sentiment": {
+ "job_id": "1204467789570284_1204468052903591",
+ "sentiment_score": "0.19079101",
+ "sentiment_polarity": "neutral",
+ "theme": [
+ {
+ "theme": "much boring",
+ "sentiment": "-0.278"
+ },
+ {
+ "theme": "graduate yahoo",
+ "sentiment": "0.095395505"
+ }
+ ]
+ }
+ }
+ ]
+ }
+ ]
+}

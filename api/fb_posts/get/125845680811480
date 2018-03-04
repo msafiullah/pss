@@ -1,0 +1,3644 @@
+{
+    "data": [
+        {
+            "_id": {
+                "$oid": "564356d8953e5ed58b991d53"
+            },
+            "id": "998756063520433",
+            "message": "Singapore’s thriving multi-culturalism is precious and unique. Each community has worked hard to keep its culture and traditions alive even as we all work together as one people. \n\nI was delighted to join 新加坡宗乡会馆联合总会 Singapore Federation of Chinese Clan Associations (SFCCA) to celebrate its 30th Anniversary last night. The SFCCA has done much good work, including nurturing Singapore Chinese culture and values. I talked about this in my speech (http://bit.ly/1Mkqnq8). \n\nThe 新加坡华族文化中心 Singapore Chinese Cultural Centre (made possible by the SFCCA and its donors) will open by the end of next year. The centre will promote our own Chinese culture, values and language. I hope it will attract new immigrants too, and the young. May they absorb and enrich our Singapore Chinese culture.\n\nA big thank you to SFCCA and its supporters for helping to cultivate a better appreciation of the Singapore Chinese heritage. - LHL\n\n一转眼，新加坡宗乡会馆联合总会成立已经30年了。这些年来，华社、总会和属下的宗乡会馆对新加坡所取得的辉煌成就，可说是功不可没。在推广华文教育、华族文化和传统、帮助新移民融入我国多元宗教、多元种族的社会，和加强族群和谐，都作了许多工作。\n\n为了推动本地华族文化的发展，新加坡宗乡会馆联合总会倡议建立 新加坡华族文化中心 Singapore Chinese Cultural Centre。在明年底竣工后，文化中心具有现代化的设备，还会提供为年轻人量身定做的活动。希望中心能吸引年轻一代，并成为展示新加坡的独特华族文化的新平台。 而新移民也可借助这个平台，了解我们独特的文化和习俗，可以更快地融入新加坡社会。\n \n感谢各界人士对华社和新加坡宗乡会馆联合总会的支持， 让新加坡的华族文化继续发光发亮。祝总会30周年快乐！ - 李显龙",
+            "created_time": "2015-11-10T10:05:14+0000",
+            "comments": [
+                {
+                    "from": {
+                        "name": "Ban Jee Koh",
+                        "id": "1478965775766760"
+                    },
+                    "message": "I thought you were going to lead them in a choir!! Hahaha!",
+                    "created_time": "2015-11-10T13:22:45+0000",
+                    "id": "998756063520433_998810626848310",
+                    "sentiment": {
+                        "job_id": "998756063520433_998810626848310",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Elmo Judo",
+                        "id": "10205553496783463"
+                    },
+                    "message": "Really feel proud for this event. =D",
+                    "created_time": "2015-11-11T04:27:42+0000",
+                    "id": "998756063520433_999089653487074",
+                    "sentiment": {
+                        "job_id": "998756063520433_999089653487074",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive"
+                    }
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "564356d8953e5ed58b991d52"
+            },
+            "id": "999206890142017",
+            "message": "Enjoyed meeting President Ólafur Ragnar Grímsson from Iceland today. He is on a state visit here — the first by a President of Iceland. \n\nPresident Grímsson will be speaking tomorrow at the Arctic Circle Singapore Forum. The forum is organised by the Arctic Circle and the Singapore Maritime Institute. We are an observer state in The Arctic Circle (an inter-governmental cooperation platform among Arctic states) and Sam Tan has been attending their meetings regularly. \n\nGlad Singapore can contribute to developments in the Arctic even though we are not very near the Arctic :). Our friendship with Iceland and other Arctic nations is helpful as we tackle common issues like climate change and sustainability together. - LHL\n\n(MCI Photo by LH Goh)",
+            "created_time": "2015-11-11T13:01:23+0000",
+            "comments": [
+                {
+                    "from": {
+                        "name": "Ngpohhenh Ng",
+                        "id": "438709992984744"
+                    },
+                    "message": "👪👪👍👍👍✋",
+                    "created_time": "2015-11-11T13:04:44+0000",
+                    "id": "999206890142017_999237403472299",
+                    "sentiment": {
+                        "job_id": "999206890142017_999237403472299",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Koh Beng Huat",
+                        "id": "10205739818995064"
+                    },
+                    "message": "Welcome!",
+                    "created_time": "2015-11-11T13:06:59+0000",
+                    "id": "999206890142017_999238100138896",
+                    "sentiment": {
+                        "job_id": "999206890142017_999238100138896",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Renu Sree",
+                        "id": "891575130927399"
+                    },
+                    "message": "❤❤❤",
+                    "created_time": "2015-11-11T13:08:58+0000",
+                    "id": "999206890142017_999238660138840",
+                    "sentiment": {
+                        "job_id": "999206890142017_999238660138840",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Peter Li",
+                        "id": "726697287463505"
+                    },
+                    "message": "Welcome to Singapore 🇸🇬 Iceland  president Olafur Raganar 🇮🇸 I hope this 2 countries will build a bilateral ties in the region I wish u all have a great week..😃",
+                    "created_time": "2015-11-11T13:09:31+0000",
+                    "id": "999206890142017_999238746805498",
+                    "sentiment": {
+                        "job_id": "999206890142017_999238746805498",
+                        "sentiment_score": "0.46333334",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Raganar 🇮🇸",
+                                "sentiment": "0.45416665"
+                            },
+                            {
+                                "theme": "bilateral ties",
+                                "sentiment": "0.44958332"
+                            },
+                            {
+                                "theme": "great week",
+                                "sentiment": "0.4"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "president",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Zhi Yuan Lim",
+                        "id": "10154350050284616"
+                    },
+                    "message": "Syu El Zombi Nur Farhana",
+                    "created_time": "2015-11-11T13:09:59+0000",
+                    "id": "999206890142017_999238836805489",
+                    "sentiment": {
+                        "job_id": "999206890142017_999238836805489",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Janarie Donald",
+                        "id": "10206995780665906"
+                    },
+                    "message": "Dear PM Hsien Loong, today I went Orchard with my daughter and aunty and then my daughter suddenly pointed at the orchard road Jesus deco she said and said \"When is Lee Hsien Loong going to RING the bell!!!!!\" she is so smart right? hehehehe :D",
+                    "created_time": "2015-11-11T13:10:48+0000",
+                    "id": "999206890142017_999239183472121",
+                    "sentiment": {
+                        "job_id": "999206890142017_999239183472121",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "orchard road",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "theme": "smart right",
+                                "sentiment": "1.125"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Lee Hsien Loong",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "Orchard",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "Jesus",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "\"When is Lee Hsien Loong going to RING the bell!!!!!\"",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Rahmah Abdul Rahim",
+                        "id": "10206810933007794"
+                    },
+                    "message": "Friendship based on mutual respect and understanding will last forever. Distance\nmakes the heart warmer and fonder.",
+                    "created_time": "2015-11-11T13:12:05+0000",
+                    "id": "999206890142017_999239673472072",
+                    "sentiment": {
+                        "job_id": "999206890142017_999239673472072",
+                        "sentiment_score": "0.45581445",
+                        "sentiment_polarity": "positive",
+                        "category": [
+                            {
+                                "topic": "Health_Problems",
+                                "strength_score": "0.46869743"
+                            }
+                        ],
+                        "theme": [
+                            {
+                                "theme": "mutual respect",
+                                "sentiment": "0.4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Donn Chin",
+                        "id": "1016954205013920"
+                    },
+                    "message": "Wao...Iceland! 😃😄😉",
+                    "created_time": "2015-11-11T13:15:59+0000",
+                    "id": "999206890142017_999240820138624",
+                    "sentiment": {
+                        "job_id": "999206890142017_999240820138624",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Pl Wong",
+                        "id": "892409074184048"
+                    },
+                    "message": "Good for Small red dot for sure. Ki it up, dear PM Lee.",
+                    "created_time": "2015-11-11T13:16:16+0000",
+                    "id": "999206890142017_999240943471945",
+                    "sentiment": {
+                        "job_id": "999206890142017_999240943471945",
+                        "sentiment_score": "0.2621155",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Small red",
+                                "sentiment": "0.024231"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "dot",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "PM Lee",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ahmad Syahrizal",
+                        "id": "10206993692268447"
+                    },
+                    "message": "Top !!",
+                    "created_time": "2015-11-11T13:16:55+0000",
+                    "id": "999206890142017_999241133471926",
+                    "sentiment": {
+                        "job_id": "999206890142017_999241133471926",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Sun Wing Ho",
+                        "id": "962722690440035"
+                    },
+                    "message": "like",
+                    "created_time": "2015-11-11T13:17:18+0000",
+                    "id": "999206890142017_999241273471912",
+                    "sentiment": {
+                        "job_id": "999206890142017_999241273471912",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Mary Hwee",
+                        "id": "985122554886997"
+                    },
+                    "message": "Good beginning with Iceland's president to build up friendly relatioship.",
+                    "created_time": "2015-11-11T13:30:55+0000",
+                    "id": "999206890142017_999253196804053",
+                    "sentiment": {
+                        "job_id": "999206890142017_999253196804053",
+                        "sentiment_score": "0.472",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Good beginning",
+                                "sentiment": "0.5"
+                            },
+                            {
+                                "theme": "friendly relatioship",
+                                "sentiment": "0.444"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "president",
+                                "sentiment": "0.472"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jeffery Han",
+                        "id": "1644281932515837"
+                    },
+                    "message": "Dear Mr Lee. Noted with thanks.",
+                    "created_time": "2015-11-11T13:37:25+0000",
+                    "id": "999206890142017_999255086803864",
+                    "sentiment": {
+                        "job_id": "999206890142017_999255086803864",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "James Tan",
+                        "id": "914364495324663"
+                    },
+                    "message": "Thanks for all the updates. Tan MK",
+                    "created_time": "2015-11-11T13:45:20+0000",
+                    "id": "999206890142017_999257283470311",
+                    "sentiment": {
+                        "job_id": "999206890142017_999257283470311",
+                        "sentiment_score": "0.53999996",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Dennis Garcia Arce",
+                        "id": "1234360316589901"
+                    },
+                    "message": "PM Lee is very Statesman.",
+                    "created_time": "2015-11-11T13:55:44+0000",
+                    "id": "999206890142017_999260403469999",
+                    "sentiment": {
+                        "job_id": "999206890142017_999260403469999",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "PM Lee",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "ForestSunset Rainkiddy",
+                        "id": "10206665891799336"
+                    },
+                    "message": "🐟🍧",
+                    "created_time": "2015-11-11T14:04:01+0000",
+                    "id": "999206890142017_999263290136377",
+                    "sentiment": {
+                        "job_id": "999206890142017_999263290136377",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Aileena Wong",
+                        "id": "846948795421338"
+                    },
+                    "message": "Wow! May bless our leaders.",
+                    "created_time": "2015-11-11T14:06:50+0000",
+                    "id": "999206890142017_999264203469619",
+                    "sentiment": {
+                        "job_id": "999206890142017_999264203469619",
+                        "sentiment_score": "0.58800006",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ban Jee Koh",
+                        "id": "1478965775766760"
+                    },
+                    "message": "Coming from Iceland to Singapore, can President Grimsson adept well to our equatorial climate?",
+                    "created_time": "2015-11-11T14:09:30+0000",
+                    "id": "999206890142017_999264956802877",
+                    "sentiment": {
+                        "job_id": "999206890142017_999264956802877",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "category": [
+                            {
+                                "topic": "Climate",
+                                "strength_score": "1.0"
+                            },
+                            {
+                                "topic": "Conservation",
+                                "strength_score": "0.45672643"
+                            }
+                        ],
+                        "theme": [
+                            {
+                                "theme": "equatorial climate",
+                                "sentiment": "0.245"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Singapore",
+                                "sentiment": "0.49"
+                            },
+                            {
+                                "entity": "President",
+                                "sentiment": "0.49"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Clifford Chan",
+                        "id": "439378812936100"
+                    },
+                    "message": "Welcome",
+                    "created_time": "2015-11-11T14:25:56+0000",
+                    "id": "999206890142017_999270776802295",
+                    "sentiment": {
+                        "job_id": "999206890142017_999270776802295",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Sheena Ari",
+                        "id": "10153088920406816"
+                    },
+                    "message": "!!! Evans Soh",
+                    "created_time": "2015-11-11T14:30:43+0000",
+                    "id": "999206890142017_999272363468803",
+                    "sentiment": {
+                        "job_id": "999206890142017_999272363468803",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Tan Thiam Hock",
+                        "id": "10208442974179865"
+                    },
+                    "message": "Can treat him to Ice Kacang!",
+                    "created_time": "2015-11-11T14:33:54+0000",
+                    "id": "999206890142017_999273320135374",
+                    "sentiment": {
+                        "job_id": "999206890142017_999273320135374",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Yifang Chen",
+                        "id": "437820386401772"
+                    },
+                    "message": "11Nov2015. 太美丽的日子。欢迎。。。",
+                    "created_time": "2015-11-11T14:37:35+0000",
+                    "id": "999206890142017_999274530135253",
+                    "sentiment": {
+                        "job_id": "999206890142017_999274530135253",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "564312ae953e5ed58b991d32"
+            },
+            "id": "999141290148577",
+            "message": "Deeply saddened to learn of the passing of former West German Chancellor Helmut Schmidt.   \n\nMr Schmidt was a visionary leader and a strong supporter of closer relations between our countries. Mr Lee Kuan Yew described him as a 'clear-headed and tough-minded' leader who had a thorough grasp of important issues. They found common ground on many issues, and were close friends for four decades. \n\nIn 2012, Mr Schmidt made the long journey from Hamburg to Singapore to meet my father. The two friends spent three days discussing world politics. It was to be the last time they met. Their conversation was recorded and included in the final chapter of “One Man's View Of The World”, the book my father published the following year.  \n\nMr Schmidt also had an acute musical ear. I recall one poolside dinner my parents hosted for him. As usual my mother had some classical chamber music playing in the background. That evening she had on J S Bach’s Goldberg Variations. In the midst of the conversation, he turned to my mother, and asked if the pianist was Glenn Gould, which indeed it was. My mother asked how he knew, and he said there was something unique about Glenn Gould’s playing style. \n\nMy deepest condolences to Mr Schmidt’s family and the German people on their loss. - LHL\n\n[Mr Schmidt and Mr Lee having a conversation in Shangri-La Hotel in May 2012. / ST File Photo © Singapore Press Holdings Limited. Permission required for reproduction.]",
+            "created_time": "2015-11-11T07:27:14+0000",
+            "comments": [
+                {
+                    "from": {
+                        "name": "HIếu Trần",
+                        "id": "1197322330282646"
+                    },
+                    "message": "(y)",
+                    "created_time": "2015-11-11T07:30:05+0000",
+                    "id": "999141290148577_999142460148460",
+                    "sentiment": {
+                        "job_id": "999141290148577_999142460148460",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Christine King",
+                        "id": "1512893225703569"
+                    },
+                    "message": "Rest in peace",
+                    "created_time": "2015-11-11T07:30:25+0000",
+                    "id": "999141290148577_999142580148448",
+                    "sentiment": {
+                        "job_id": "999141290148577_999142580148448",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Mesut Ozzist",
+                        "id": "123341641361971"
+                    },
+                    "message": "May you Rest In Peace Mr Schmidt . \nTogether you and our Mr Lee Kuan Yew\nBless us and support us with any of the obstacles we faced !",
+                    "created_time": "2015-11-11T07:31:05+0000",
+                    "id": "999141290148577_999142653481774",
+                    "sentiment": {
+                        "job_id": "999141290148577_999142653481774",
+                        "sentiment_score": "-1.0043724",
+                        "sentiment_polarity": "negative",
+                        "entity": [
+                            {
+                                "entity": "Lee Kuan Yew",
+                                "sentiment": "-1.0043724"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Francis Leong",
+                        "id": "10153271169170784"
+                    },
+                    "message": "Two great men.",
+                    "created_time": "2015-11-11T07:31:54+0000",
+                    "id": "999141290148577_999142886815084",
+                    "sentiment": {
+                        "job_id": "999141290148577_999142886815084",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great men",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Peter Li",
+                        "id": "726697287463505"
+                    },
+                    "message": "Mr Schmidt is a great leader may he rest in peace..👼🏼😭😢 I'll miss LKY forever inside my 💙👼🏼😭😢💐..",
+                    "created_time": "2015-11-11T07:32:05+0000",
+                    "id": "999141290148577_999142913481748",
+                    "sentiment": {
+                        "job_id": "999141290148577_999142913481748",
+                        "sentiment_score": "0.29323334",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leader",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "😢💐",
+                                "sentiment": "-0.15"
+                            },
+                            {
+                                "theme": "💙👼",
+                                "sentiment": "0.495"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "1.3197"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Tan Kok Tim",
+                        "id": "979850705393977"
+                    },
+                    "message": "RIP.   Ripened at 96.  Great soul.",
+                    "created_time": "2015-11-11T07:32:30+0000",
+                    "id": "999141290148577_999142993481740",
+                    "sentiment": {
+                        "job_id": "999141290148577_999142993481740",
+                        "sentiment_score": "0.72",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great soul",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "NG Richard",
+                        "id": "720838988046133"
+                    },
+                    "message": "RIP SIR",
+                    "created_time": "2015-11-11T07:33:18+0000",
+                    "id": "999141290148577_999143170148389",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143170148389",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Cs Lam",
+                        "id": "10208121434818259"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T07:33:26+0000",
+                    "id": "999141290148577_999143193481720",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143193481720",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kenni Koe",
+                        "id": "10154183960101729"
+                    },
+                    "message": "Helmut Schmidt, Rest In Peace...",
+                    "created_time": "2015-11-11T07:34:33+0000",
+                    "id": "999141290148577_999143376815035",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143376815035",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.5194"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Mohamed Anwar",
+                        "id": "527951484027594"
+                    },
+                    "message": "Rest In Peace!",
+                    "created_time": "2015-11-11T07:34:57+0000",
+                    "id": "999141290148577_999143526815020",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143526815020",
+                        "sentiment_score": "1.0388",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Law Koon Huat",
+                        "id": "10205527118476541"
+                    },
+                    "message": "The world has lost two great men in 2015",
+                    "created_time": "2015-11-11T07:35:10+0000",
+                    "id": "999141290148577_999143586815014",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143586815014",
+                        "sentiment_score": "0.112090066",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "great men",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Stefan G Csaky",
+                        "id": "10205729861509334"
+                    },
+                    "message": "Nice to see that meeting if two wise and honorable politicians. Seldom enough nowadays. Now both of them can resume their discus in the aftetworld. I am just sad never more be able to listen to their advice.",
+                    "created_time": "2015-11-11T07:35:33+0000",
+                    "id": "999141290148577_999143690148337",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143690148337",
+                        "sentiment_score": "-0.04400001",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "honorable politicians",
+                                "sentiment": "0.3"
+                            },
+                            {
+                                "theme": "Seldom enough",
+                                "sentiment": "-0.022000005"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Dalip Singh",
+                        "id": "1050159628358896"
+                    },
+                    "message": "Two great  leaders . RIP.  Amen.",
+                    "created_time": "2015-11-11T07:35:36+0000",
+                    "id": "999141290148577_999143710148335",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143710148335",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leaders",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ahmad Syahrizal",
+                        "id": "10206993692268447"
+                    },
+                    "message": "Top 😊",
+                    "created_time": "2015-11-11T07:35:48+0000",
+                    "id": "999141290148577_999143736814999",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143736814999",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Doga Gumus",
+                        "id": "128931394133103"
+                    },
+                    "message": "Your head sağolsun Germany",
+                    "created_time": "2015-11-11T07:35:51+0000",
+                    "id": "999141290148577_999143756814997",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143756814997",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "head sağolsun",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Robert K Tan",
+                        "id": "10206601486733242"
+                    },
+                    "message": "Two great leaders in their time. They left a legacy to their countrymen,  and I dare say, to the world in some way. That is the greatest achievement of a politician",
+                    "created_time": "2015-11-11T07:36:13+0000",
+                    "id": "999141290148577_999143846814988",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143846814988",
+                        "sentiment_score": "0.65000004",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leaders",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "SU Aye",
+                        "id": "507269666099328"
+                    },
+                    "message": "RIP Sir",
+                    "created_time": "2015-11-11T07:36:33+0000",
+                    "id": "999141290148577_999143910148315",
+                    "sentiment": {
+                        "job_id": "999141290148577_999143910148315",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Doga Gumus",
+                        "id": "128931394133103"
+                    },
+                    "message": "There are books of remembrance glory zuhra",
+                    "created_time": "2015-11-11T07:36:58+0000",
+                    "id": "999141290148577_999144030148303",
+                    "sentiment": {
+                        "job_id": "999141290148577_999144030148303",
+                        "sentiment_score": "0.5724312",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "remembrance glory zuhra",
+                                "sentiment": "0.5724312"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Soh Serene",
+                        "id": "1078923752141615"
+                    },
+                    "message": "R.i.p",
+                    "created_time": "2015-11-11T07:38:52+0000",
+                    "id": "999141290148577_999144536814919",
+                    "sentiment": {
+                        "job_id": "999141290148577_999144536814919",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Low See Mun Carine",
+                        "id": "1219930821355803"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T07:39:08+0000",
+                    "id": "999141290148577_999144590148247",
+                    "sentiment": {
+                        "job_id": "999141290148577_999144590148247",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Raja Kovai",
+                        "id": "863229483792549"
+                    },
+                    "message": "They will be together from now",
+                    "created_time": "2015-11-11T07:39:55+0000",
+                    "id": "999141290148577_999144760148230",
+                    "sentiment": {
+                        "job_id": "999141290148577_999144760148230",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ong Kimchoo",
+                        "id": "697155830421707"
+                    },
+                    "message": "R.i.p two great friends n leaders",
+                    "created_time": "2015-11-11T07:40:19+0000",
+                    "id": "999141290148577_999144943481545",
+                    "sentiment": {
+                        "job_id": "999141290148577_999144943481545",
+                        "sentiment_score": "0.69000006",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great friends",
+                                "sentiment": "0.57500005"
+                            },
+                            {
+                                "theme": "n leaders",
+                                "sentiment": "0.69000006"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Albert Kow",
+                        "id": "1650942821821921"
+                    },
+                    "message": "R I P",
+                    "created_time": "2015-11-11T07:41:28+0000",
+                    "id": "999141290148577_999145253481514",
+                    "sentiment": {
+                        "job_id": "999141290148577_999145253481514",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Yao Bing Cheng Adriano",
+                        "id": "10204873206979453"
+                    },
+                    "message": "RIP Mr Schmidt",
+                    "created_time": "2015-11-11T07:42:01+0000",
+                    "id": "999141290148577_999145460148160",
+                    "sentiment": {
+                        "job_id": "999141290148577_999145460148160",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Sultan Ebrahim",
+                        "id": "10205393942996607"
+                    },
+                    "message": "Mr.Helmut schmidt, rest in peace",
+                    "created_time": "2015-11-11T07:42:20+0000",
+                    "id": "999141290148577_999145520148154",
+                    "sentiment": {
+                        "job_id": "999141290148577_999145520148154",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Helmut schmidt",
+                                "sentiment": "0.5194"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Annie Tan",
+                        "id": "481956315320150"
+                    },
+                    "message": "East meet West 2 great leaders RIP",
+                    "created_time": "2015-11-11T07:43:57+0000",
+                    "id": "999141290148577_999145983481441",
+                    "sentiment": {
+                        "job_id": "999141290148577_999145983481441",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leaders",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kallen Chong",
+                        "id": "10153288823529352"
+                    },
+                    "message": "RIP🙏",
+                    "created_time": "2015-11-11T07:44:12+0000",
+                    "id": "999141290148577_999146043481435",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146043481435",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Andrew Pang",
+                        "id": "719408261492626"
+                    },
+                    "message": "Deepest condolences to the family of Chancellor Helmut Schmidt.",
+                    "created_time": "2015-11-11T07:45:13+0000",
+                    "id": "999141290148577_999146206814752",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146206814752",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kamal Gulam",
+                        "id": "830533427062658"
+                    },
+                    "message": "RIP.Sir.",
+                    "created_time": "2015-11-11T07:45:30+0000",
+                    "id": "999141290148577_999146276814745",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146276814745",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Su Whispering",
+                        "id": "1668574620021411"
+                    },
+                    "message": "Their legacy lives in our heart O:-) .",
+                    "created_time": "2015-11-11T07:45:46+0000",
+                    "id": "999141290148577_999146316814741",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146316814741",
+                        "sentiment_score": "0.36",
+                        "sentiment_polarity": "positive",
+                        "category": [
+                            {
+                                "topic": "Health_Problems",
+                                "strength_score": "0.60540044"
+                            },
+                            {
+                                "topic": "Health",
+                                "strength_score": "0.4817558"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "伟童伟",
+                        "id": "743933472417877"
+                    },
+                    "message": "😂",
+                    "created_time": "2015-11-11T07:45:59+0000",
+                    "id": "999141290148577_999146346814738",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146346814738",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Lee Sgpwisely",
+                        "id": "709235889209061"
+                    },
+                    "message": "Rest in peace",
+                    "created_time": "2015-11-11T07:46:01+0000",
+                    "id": "999141290148577_999146353481404",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146353481404",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Goh Aik Huat",
+                        "id": "1168250946537824"
+                    },
+                    "message": "Rip salute sir",
+                    "created_time": "2015-11-11T07:46:47+0000",
+                    "id": "999141290148577_999146533481386",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146533481386",
+                        "sentiment_score": "0.45",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Rhotert Ai Nah",
+                        "id": "10203503028296080"
+                    },
+                    "message": "Two great leader🙏💖 RIP, Helmut Schmidt🙏",
+                    "created_time": "2015-11-11T07:46:50+0000",
+                    "id": "999141290148577_999146553481384",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146553481384",
+                        "sentiment_score": "0.5",
+                        "sentiment_polarity": "positive",
+                        "category": [
+                            {
+                                "topic": "Health_Problems",
+                                "strength_score": "0.50616366"
+                            }
+                        ],
+                        "theme": [
+                            {
+                                "theme": "great leader",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "🙏💖",
+                                "sentiment": "0.4"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Tony Eastaway",
+                        "id": "10153752056914650"
+                    },
+                    "message": "Two great men together sad they are now gone",
+                    "created_time": "2015-11-11T07:47:05+0000",
+                    "id": "999141290148577_999146610148045",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146610148045",
+                        "sentiment_score": "-0.13416032",
+                        "sentiment_polarity": "negative",
+                        "theme": [
+                            {
+                                "theme": "great men",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "together sad",
+                                "sentiment": "-0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Rony Ahammed",
+                        "id": "535250119988999"
+                    },
+                    "message": "Mr lee kuan yew is a great  man my life can not forget him",
+                    "created_time": "2015-11-11T07:48:43+0000",
+                    "id": "999141290148577_999146896814683",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146896814683",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great man",
+                                "sentiment": "0.6"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "lee kuan yew",
+                                "sentiment": "1.2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ngpohhenh Ng",
+                        "id": "438709992984744"
+                    },
+                    "message": "👪👪👍👍👍",
+                    "created_time": "2015-11-11T07:49:10+0000",
+                    "id": "999141290148577_999146960148010",
+                    "sentiment": {
+                        "job_id": "999141290148577_999146960148010",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Roni Senanayake",
+                        "id": "10153824228899175"
+                    },
+                    "message": "May he R.I.P",
+                    "created_time": "2015-11-11T07:49:32+0000",
+                    "id": "999141290148577_999147020148004",
+                    "sentiment": {
+                        "job_id": "999141290148577_999147020148004",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Wilson Lai",
+                        "id": "918741784861182"
+                    },
+                    "message": "RIP, my beloved Mr Schmidt💐",
+                    "created_time": "2015-11-11T07:50:36+0000",
+                    "id": "999141290148577_999147273481312",
+                    "sentiment": {
+                        "job_id": "999141290148577_999147273481312",
+                        "sentiment_score": "0.395",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "0.395"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Tan Leyi Hazel",
+                        "id": "826464784132742"
+                    },
+                    "message": "Rest In Peace",
+                    "created_time": "2015-11-11T07:50:54+0000",
+                    "id": "999141290148577_999147346814638",
+                    "sentiment": {
+                        "job_id": "999141290148577_999147346814638",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kok Chwee Sim",
+                        "id": "10153634807879140"
+                    },
+                    "message": "A portrait of two of the world's great statesmen. Now, they are seated face to face in heaven ... chatting about less earthly issues.",
+                    "created_time": "2015-11-11T07:53:22+0000",
+                    "id": "999141290148577_999147873481252",
+                    "sentiment": {
+                        "job_id": "999141290148577_999147873481252",
+                        "sentiment_score": "0.671",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great statesmen",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "earthly issues",
+                                "sentiment": "0.3355"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "David Lkc",
+                        "id": "10153086088950899"
+                    },
+                    "message": "RIP Mr Schmidt.",
+                    "created_time": "2015-11-11T07:54:43+0000",
+                    "id": "999141290148577_999148190147887",
+                    "sentiment": {
+                        "job_id": "999141290148577_999148190147887",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Aeseh Junit",
+                        "id": "1042510115780929"
+                    },
+                    "message": "Condolences to the families. I miss both of them.😢😢",
+                    "created_time": "2015-11-11T07:55:18+0000",
+                    "id": "999141290148577_999148276814545",
+                    "sentiment": {
+                        "job_id": "999141290148577_999148276814545",
+                        "sentiment_score": "-0.6",
+                        "sentiment_polarity": "negative"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "NG Terence",
+                        "id": "405912406274988"
+                    },
+                    "message": "RIP, Chancellor.",
+                    "created_time": "2015-11-11T07:56:48+0000",
+                    "id": "999141290148577_999148540147852",
+                    "sentiment": {
+                        "job_id": "999141290148577_999148540147852",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Judith Oliver",
+                        "id": "499583306881560"
+                    },
+                    "message": "Rest in peace.",
+                    "created_time": "2015-11-11T07:57:52+0000",
+                    "id": "999141290148577_999148680147838",
+                    "sentiment": {
+                        "job_id": "999141290148577_999148680147838",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Florence Cheang",
+                        "id": "489068374594365"
+                    },
+                    "message": "My prayers and condolences to Mr Helmut Schmidt and his family. May God's perpetual always shine on him. Amen.",
+                    "created_time": "2015-11-11T07:58:33+0000",
+                    "id": "999141290148577_999148770147829",
+                    "sentiment": {
+                        "job_id": "999141290148577_999148770147829",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Pui Hee Tan",
+                        "id": "10207855307530460"
+                    },
+                    "message": "It helps in this relationship that Schmidt speak very good English.",
+                    "created_time": "2015-11-11T07:58:34+0000",
+                    "id": "999141290148577_999148780147828",
+                    "sentiment": {
+                        "job_id": "999141290148577_999148780147828",
+                        "sentiment_score": "0.2",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Schmidt",
+                                "sentiment": "0.2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Judy Tay",
+                        "id": "10205787161217445"
+                    },
+                    "message": "Great minds think alike.  RIP to worlds leaders.",
+                    "created_time": "2015-11-11T07:59:47+0000",
+                    "id": "999141290148577_999149080147798",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149080147798",
+                        "sentiment_score": "0.4",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great minds",
+                                "sentiment": "0.4"
+                            },
+                            {
+                                "theme": "worlds leaders",
+                                "sentiment": "0.2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jeffery Han",
+                        "id": "1644281932515837"
+                    },
+                    "message": "Dear Mr Lee. Thank you for sharing. Noted with thanks.",
+                    "created_time": "2015-11-11T08:00:05+0000",
+                    "id": "999141290148577_999149140147792",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149140147792",
+                        "sentiment_score": "0.49",
+                        "sentiment_polarity": "positive",
+                        "category": [
+                            {
+                                "topic": "Internet",
+                                "strength_score": "0.766238"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jean Wong",
+                        "id": "531800030308872"
+                    },
+                    "message": "RIP Mr Helmut Schmidt",
+                    "created_time": "2015-11-11T08:00:42+0000",
+                    "id": "999141290148577_999149283481111",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149283481111",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Karthi Singapore",
+                        "id": "489457801227974"
+                    },
+                    "message": "All the best sir",
+                    "created_time": "2015-11-11T08:00:57+0000",
+                    "id": "999141290148577_999149330147773",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149330147773",
+                        "sentiment_score": "0.58800006",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Carl Wong",
+                        "id": "10203926613760506"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T08:01:14+0000",
+                    "id": "999141290148577_999149406814432",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149406814432",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "CT Tan",
+                        "id": "1520664198251231"
+                    },
+                    "message": "They r gd fren they pass d same yr n hope they will rest in peace",
+                    "created_time": "2015-11-11T08:01:45+0000",
+                    "id": "999141290148577_999149476814425",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149476814425",
+                        "sentiment_score": "0.5047",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kanchana Vadhanabhuti",
+                        "id": "10153698183706779"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T08:01:53+0000",
+                    "id": "999141290148577_999149496814423",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149496814423",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Chu Pee Lee",
+                        "id": "1621456138116360"
+                    },
+                    "message": "又一伟人离世，也是建国总理的好朋友，願他们在极乐世界相会叙旧！",
+                    "created_time": "2015-11-11T08:02:02+0000",
+                    "id": "999141290148577_999149556814417",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149556814417",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Dhen Bagush",
+                        "id": "1027304420626187"
+                    },
+                    "message": "(y)",
+                    "created_time": "2015-11-11T08:02:09+0000",
+                    "id": "999141290148577_999149710147735",
+                    "sentiment": {
+                        "job_id": "999141290148577_999149710147735",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Rosemary Retnam",
+                        "id": "560658994081385"
+                    },
+                    "message": "RIP Mr Schmidt",
+                    "created_time": "2015-11-11T08:04:04+0000",
+                    "id": "999141290148577_999150140147692",
+                    "sentiment": {
+                        "job_id": "999141290148577_999150140147692",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Laihock Tan",
+                        "id": "10153666361468151"
+                    },
+                    "message": "We shared the loss of a great men and a grief to the country. My condolences. RIP, SIR.",
+                    "created_time": "2015-11-11T08:05:49+0000",
+                    "id": "999141290148577_999150443480995",
+                    "sentiment": {
+                        "job_id": "999141290148577_999150443480995",
+                        "sentiment_score": "-0.16333334",
+                        "sentiment_polarity": "negative",
+                        "theme": [
+                            {
+                                "theme": "great men",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Viswanathan Chockalingam",
+                        "id": "10153633509936827"
+                    },
+                    "message": "Yes we all the close friendship they shared. Both did great for their countries . May we learn from these two about bilateral relationship. I am glad in my life time I saw and heard such great learders . Thanks PM Lee for highlighting this . Great men are remembered so let's remember them both .",
+                    "created_time": "2015-11-11T08:09:18+0000",
+                    "id": "999141290148577_999151080147598",
+                    "sentiment": {
+                        "job_id": "999141290148577_999151080147598",
+                        "sentiment_score": "0.33760002",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "close friendship",
+                                "sentiment": "0.49"
+                            },
+                            {
+                                "theme": "bilateral relationship",
+                                "sentiment": "0.16880001"
+                            },
+                            {
+                                "theme": "great learders",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "life time",
+                                "sentiment": "0.3594"
+                            },
+                            {
+                                "theme": "Great men",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Pradip Bhattacharya",
+                        "id": "891356080948760"
+                    },
+                    "message": "Historical moment. Architect of Singapore who made Singapore, pride of Asia.",
+                    "created_time": "2015-11-11T08:12:36+0000",
+                    "id": "999141290148577_999151713480868",
+                    "sentiment": {
+                        "job_id": "999141290148577_999151713480868",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Historical moment",
+                                "sentiment": "0.3"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Singapore",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "entity": "Asia",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jenny Yong",
+                        "id": "737004339763572"
+                    },
+                    "message": "一路走好…",
+                    "created_time": "2015-11-11T08:16:11+0000",
+                    "id": "999141290148577_999152360147470",
+                    "sentiment": {
+                        "job_id": "999141290148577_999152360147470",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Lydia  Heng",
+                        "id": "724407871025549"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T08:18:25+0000",
+                    "id": "999141290148577_999152686814104",
+                    "sentiment": {
+                        "job_id": "999141290148577_999152686814104",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Pakcik Lee",
+                        "id": "722512021225616"
+                    },
+                    "message": "(Rest in peace )",
+                    "created_time": "2015-11-11T08:18:38+0000",
+                    "id": "999141290148577_999152740147432",
+                    "sentiment": {
+                        "job_id": "999141290148577_999152740147432",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Zubin Kabraji",
+                        "id": "10206271446117352"
+                    },
+                    "message": "Good man, great leader...",
+                    "created_time": "2015-11-11T08:23:46+0000",
+                    "id": "999141290148577_999153656814007",
+                    "sentiment": {
+                        "job_id": "999141290148577_999153656814007",
+                        "sentiment_score": "0.5",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Good man",
+                                "sentiment": "0.4"
+                            },
+                            {
+                                "theme": "great leader",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Juwita",
+                        "id": "1016453785083270"
+                    },
+                    "message": "True friend. Same like lady diana and mother theresa",
+                    "created_time": "2015-11-11T08:26:48+0000",
+                    "id": "999141290148577_999154253480614",
+                    "sentiment": {
+                        "job_id": "999141290148577_999154253480614",
+                        "sentiment_score": "0.66",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "True friend",
+                                "sentiment": "0.55"
+                            },
+                            {
+                                "theme": "lady diana",
+                                "sentiment": "0.33"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "lady diana",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "B Sheila Abd Majeed",
+                        "id": "10204195570604137"
+                    },
+                    "message": "RIP....All the hardliners are leaving with an impactful of legacy behind.",
+                    "created_time": "2015-11-11T08:27:12+0000",
+                    "id": "999141290148577_999154356813937",
+                    "sentiment": {
+                        "job_id": "999141290148577_999154356813937",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Mira Nayosin",
+                        "id": "426021977594148"
+                    },
+                    "message": "R I P",
+                    "created_time": "2015-11-11T08:27:16+0000",
+                    "id": "999141290148577_999154376813935",
+                    "sentiment": {
+                        "job_id": "999141290148577_999154376813935",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Juwita",
+                        "id": "1016453785083270"
+                    },
+                    "message": "Om ami dewa hri. Hri",
+                    "created_time": "2015-11-11T08:27:50+0000",
+                    "id": "999141290148577_999154466813926",
+                    "sentiment": {
+                        "job_id": "999141290148577_999154466813926",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "ami dewa hri",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Koh Beng Huat",
+                        "id": "10205739818995064"
+                    },
+                    "message": "2 of the greatest men in the world. RIP",
+                    "created_time": "2015-11-11T08:35:42+0000",
+                    "id": "999141290148577_999156290147077",
+                    "sentiment": {
+                        "job_id": "999141290148577_999156290147077",
+                        "sentiment_score": "0.75",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Maggie Yap",
+                        "id": "933393023418359"
+                    },
+                    "message": "Eternal rest grant unto him, O Lord, and may Thy Perpetual Light shine on him, Amen. 🙏",
+                    "created_time": "2015-11-11T08:36:16+0000",
+                    "id": "999141290148577_999156350147071",
+                    "sentiment": {
+                        "job_id": "999141290148577_999156350147071",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jason Chua Chin Seng",
+                        "id": "1042103935830222"
+                    },
+                    "message": "\"At the end of the day, what I cherish most are the human relationships. With the unfailing support of my wife and partner I have lived my life to the fullest. It is the friendships I made and the close family ties I nurtured that have provided me with that sense of satisfaction at a life well lived, and have made me what I am.\"\n~ LKY 2003.        ....... https://www.facebook.com/FabricationsAboutThePAP/photos/a.245735922149090.70599.213440582045291/923534611035881/?type=3&theater",
+                    "created_time": "2015-11-11T08:36:33+0000",
+                    "id": "999141290148577_999156390147067",
+                    "sentiment": {
+                        "job_id": "999141290148577_999156390147067",
+                        "sentiment_score": "0.4297619",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "close family ties",
+                                "sentiment": "1.5250001"
+                            },
+                            {
+                                "theme": "unfailing support",
+                                "sentiment": "1.3371428"
+                            },
+                            {
+                                "theme": "human relationships",
+                                "sentiment": "0.58238095"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "\"At the end of the day, what I cherish most are the human relationships. With the unfailing support of my wife and partner I have lived my life to the fullest. It is the friendships I made and the close family ties I nurtured that have provided me with that sense of satisfaction at a life well lived, and have made me what I am.\"",
+                                "sentiment": "0.4297619"
+                            },
+                            {
+                                "entity": "https:// www.facebook.com/FabricationsAboutThePAP/photos/a.245735922149090.70599.213440582045291/923534611035881/?",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Victor Ooi",
+                        "id": "897176377017503"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T08:38:20+0000",
+                    "id": "999141290148577_999156786813694",
+                    "sentiment": {
+                        "job_id": "999141290148577_999156786813694",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Anton Indrawata",
+                        "id": "1061527597214769"
+                    },
+                    "message": "Lieber Altkanzler Dr hc Helmut Schmidt, Ich bin ein von Ihrer Verehrer in Singapur für Ihre staatsmännische Führung und Weisheit. Ich staune und habe Hochachtung immer wieder für Ihr wegweisende Rede jedesmal. Ihre persönliche Unterschrift gezeichnet in ein Spiegelbuch über Sie habe ich noch behalten. Habe Friede in der Ruhe Herr Schmidt, Gottes Segen begleitet Sie im Jenseits, adieu.",
+                    "created_time": "2015-11-11T08:42:50+0000",
+                    "id": "999141290148577_999157890146917",
+                    "sentiment": {
+                        "job_id": "999141290148577_999157890146917",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "habe ich noch behalten",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "theme": "staune und habe",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "theme": "immer wieder für",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "theme": "Singapur für",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "theme": "bin ein",
+                                "sentiment": "0.0"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Lieber Altkanzler Dr",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "von Ihrer",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "Ruhe Herr Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Dennis Leong",
+                        "id": "1326993903984019"
+                    },
+                    "message": "They will discuss issues yet again, in the land where the sun never sets",
+                    "created_time": "2015-11-11T08:43:51+0000",
+                    "id": "999141290148577_999158026813570",
+                    "sentiment": {
+                        "job_id": "999141290148577_999158026813570",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "the sun",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Omie Rangabashyam",
+                        "id": "10207048066114256"
+                    },
+                    "message": "RIP Mr Schmidt",
+                    "created_time": "2015-11-11T08:45:18+0000",
+                    "id": "999141290148577_999158280146878",
+                    "sentiment": {
+                        "job_id": "999141290148577_999158280146878",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Elmo Judo",
+                        "id": "10205553496783463"
+                    },
+                    "message": "Salute to Mr. Helmut Schmidt, may you rest in peace. <3",
+                    "created_time": "2015-11-11T08:47:38+0000",
+                    "id": "999141290148577_999158756813497",
+                    "sentiment": {
+                        "job_id": "999141290148577_999158756813497",
+                        "sentiment_score": "0.4847",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.45"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "AsiaBrokers Club",
+                        "id": "1681798708700249"
+                    },
+                    "message": "Great leaders remembered with visionary legacy.",
+                    "created_time": "2015-11-11T08:52:23+0000",
+                    "id": "999141290148577_999159973480042",
+                    "sentiment": {
+                        "job_id": "999141290148577_999159973480042",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great leaders",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "visionary legacy",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Chai Min Fook",
+                        "id": "857649591016007"
+                    },
+                    "message": "Ruhe in frieden,  ex CHANCELLOR Deutschland, Herrn Helmut Schmidt. Du bist ein guten Freund mit Herrn Lee Kuan Yew und Singapur. ABSCHIED!",
+                    "created_time": "2015-11-11T08:53:06+0000",
+                    "id": "999141290148577_999160080146698",
+                    "sentiment": {
+                        "job_id": "999141290148577_999160080146698",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "bist ein guten",
+                                "sentiment": "0.0"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "Lee Kuan Yew",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Sven Suhrbier",
+                        "id": "10206122936166798"
+                    },
+                    "message": "Thank you for this very personal post and statement. The book, jointly published by Lee Kuan Yew and Helmut Schmidt, is highly recommended to read. Also the short biography Helmut Schmidt wrote about Lee Kuan Yew in his book about long standing friends, associates and partners provides some interesting insides of the co-operation of the two statesmen over the decades.",
+                    "created_time": "2015-11-11T08:55:31+0000",
+                    "id": "999141290148577_999160530146653",
+                    "sentiment": {
+                        "job_id": "999141290148577_999160530146653",
+                        "sentiment_score": "0.6540201",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "personal post",
+                                "sentiment": "0.57201004"
+                            },
+                            {
+                                "theme": "short biography",
+                                "sentiment": "0.60682505"
+                            },
+                            {
+                                "theme": "interesting insides",
+                                "sentiment": "0.5194"
+                            },
+                            {
+                                "theme": "standing friends",
+                                "sentiment": "0.55"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Lee Kuan Yew",
+                                "sentiment": "1.3775"
+                            },
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.8428"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ariana Wright",
+                        "id": "10207202107706411"
+                    },
+                    "message": "My condolences to the family  Mr Helmut Schmidt for his passing ' Rest in Peace' my loved to Late Mr LKY that I will bring to my grave😭",
+                    "created_time": "2015-11-11T08:55:45+0000",
+                    "id": "999141290148577_999160573479982",
+                    "sentiment": {
+                        "job_id": "999141290148577_999160573479982",
+                        "sentiment_score": "0.1448",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.1448"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Emma Krish",
+                        "id": "1696863330548916"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T08:58:43+0000",
+                    "id": "999141290148577_999161293479910",
+                    "sentiment": {
+                        "job_id": "999141290148577_999161293479910",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Mss KaKa",
+                        "id": "1716626025226070"
+                    },
+                    "message": "The world has lost one more the good politician...Thanks so much for ur hard worked. Rest in Peace!",
+                    "created_time": "2015-11-11T08:59:29+0000",
+                    "id": "999141290148577_999161476813225",
+                    "sentiment": {
+                        "job_id": "999141290148577_999161476813225",
+                        "sentiment_score": "0.064399704",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "good politician",
+                                "sentiment": "0.4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Anton Indrawata",
+                        "id": "1061527597214769"
+                    },
+                    "message": "The world has lost two great leaders of our time.",
+                    "created_time": "2015-11-11T09:00:57+0000",
+                    "id": "999141290148577_999161846813188",
+                    "sentiment": {
+                        "job_id": "999141290148577_999161846813188",
+                        "sentiment_score": "0.112090066",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "great leaders",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Michelle Lim Schulze",
+                        "id": "10153053202991266"
+                    },
+                    "message": "Patrick Schulze :(",
+                    "created_time": "2015-11-11T09:02:27+0000",
+                    "id": "999141290148577_999162116813161",
+                    "sentiment": {
+                        "job_id": "999141290148577_999162116813161",
+                        "sentiment_score": "-0.5",
+                        "sentiment_polarity": "negative",
+                        "entity": [
+                            {
+                                "entity": "Patrick Schulze",
+                                "sentiment": "-0.5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Clive Chua",
+                        "id": "925823024160447"
+                    },
+                    "message": "Rest In PEACE!",
+                    "created_time": "2015-11-11T09:04:45+0000",
+                    "id": "999141290148577_999162776813095",
+                    "sentiment": {
+                        "job_id": "999141290148577_999162776813095",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Donn Chin",
+                        "id": "1016954205013920"
+                    },
+                    "message": "RIP dear Sir. A country's great loss.",
+                    "created_time": "2015-11-11T09:11:54+0000",
+                    "id": "999141290148577_999164020146304",
+                    "sentiment": {
+                        "job_id": "999141290148577_999164020146304",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "great loss",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "BooCheang John",
+                        "id": "1520519844939161"
+                    },
+                    "message": "My heartfelt n condolences to his family n country",
+                    "created_time": "2015-11-11T09:14:26+0000",
+                    "id": "999141290148577_999165033479536",
+                    "sentiment": {
+                        "job_id": "999141290148577_999165033479536",
+                        "sentiment_score": "0.48661906",
+                        "sentiment_polarity": "positive",
+                        "category": [
+                            {
+                                "topic": "Mathematics",
+                                "strength_score": "1.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Lee Jessica",
+                        "id": "1084369861587877"
+                    },
+                    "message": "sometime life is so short and has to treasure of what we have.........Both of them has given a good deeds to their country........",
+                    "created_time": "2015-11-11T09:17:20+0000",
+                    "id": "999141290148577_999165530146153",
+                    "sentiment": {
+                        "job_id": "999141290148577_999165530146153",
+                        "sentiment_score": "0.5814742",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "sometime life",
+                                "sentiment": "0.62221134"
+                            },
+                            {
+                                "theme": "good deeds",
+                                "sentiment": "0.5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kt Tan Sh",
+                        "id": "10208121810467039"
+                    },
+                    "message": "May Mr Schmidt and our founding Father Rest In Peace. 🙏💐",
+                    "created_time": "2015-11-11T09:20:07+0000",
+                    "id": "999141290148577_999166143479425",
+                    "sentiment": {
+                        "job_id": "999141290148577_999166143479425",
+                        "sentiment_score": "0.46164003",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "🙏💐",
+                                "sentiment": "0.3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Patricia Tan",
+                        "id": "1647506628821458"
+                    },
+                    "message": "RIP Mr Schmidt.",
+                    "created_time": "2015-11-11T09:22:45+0000",
+                    "id": "999141290148577_999166910146015",
+                    "sentiment": {
+                        "job_id": "999141290148577_999166910146015",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Zainabz Mohamed",
+                        "id": "10153720786109390"
+                    },
+                    "message": "our condolence to the family of  Chanchellor Helmut Schmidt..R.I.P..",
+                    "created_time": "2015-11-11T09:30:02+0000",
+                    "id": "999141290148577_999168346812538",
+                    "sentiment": {
+                        "job_id": "999141290148577_999168346812538",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Singh Prem",
+                        "id": "1654220154792432"
+                    },
+                    "message": "How would i describe both of these great men? The answer is \"They were men for all seasons who dared to take the lead, no matter the circumstances, to work selflessly and tirelessly for the nation and her people....and they delivered so much more, over and above the people's expectations.\"",
+                    "created_time": "2015-11-11T09:30:58+0000",
+                    "id": "999141290148577_999168486812524",
+                    "sentiment": {
+                        "job_id": "999141290148577_999168486812524",
+                        "sentiment_score": "0.32000002",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great men",
+                                "sentiment": "0.6"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "\"They were men for all seasons who dared to take the lead, no matter the circumstances, to work selflessly and tirelessly for the nation and her people.... and they delivered so much more, over and above the people's expectations.\"",
+                                "sentiment": "0.32000002"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Gudrun Spielberger",
+                        "id": "905624806197066"
+                    },
+                    "message": "As a German living in Singapore I was deeply saddened as the late Mr. Lee Kuan Yew passed away on March 13. I had great respect for your father Mr. Lee. I went down to Istana to write down my condolences. Many Singaporeans thanked me for this gesture. I didn't understand why, for me it was normal. \nToday, that our deeply respected former chancellor has died and I read all these kind words of love and respect I understand better.\nI would like say \"thank you\" to all of you. The German People are very sad about this loss and I am proud of the friendship between our late two leaders. May they rest in peace.",
+                    "created_time": "2015-11-11T09:31:05+0000",
+                    "id": "999141290148577_999168506812522",
+                    "sentiment": {
+                        "job_id": "999141290148577_999168506812522",
+                        "sentiment_score": "0.2658449",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "German living",
+                                "sentiment": "-0.19091158"
+                            },
+                            {
+                                "theme": "great respect",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "former chancellor",
+                                "sentiment": "-0.062066"
+                            },
+                            {
+                                "theme": "kind words",
+                                "sentiment": "0.3"
+                            },
+                            {
+                                "theme": "deeply respected",
+                                "sentiment": "1.4175"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Lee Kuan Yew",
+                                "sentiment": "-0.04766804"
+                            },
+                            {
+                                "entity": "March 13",
+                                "sentiment": "-0.64766806"
+                            },
+                            {
+                                "entity": "Singapore",
+                                "sentiment": "-0.9261"
+                            },
+                            {
+                                "entity": "\"thank you\"",
+                                "sentiment": "0.49"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Mateus Kud",
+                        "id": "1077730798917370"
+                    },
+                    "message": "Thank you for this statement, Mr. Lee Hsien Loong!",
+                    "created_time": "2015-11-11T09:33:46+0000",
+                    "id": "999141290148577_999169206812452",
+                    "sentiment": {
+                        "job_id": "999141290148577_999169206812452",
+                        "sentiment_score": "0.98",
+                        "sentiment_polarity": "positive",
+                        "category": [
+                            {
+                                "topic": "Logic",
+                                "strength_score": "0.71063"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Lee Hsien Loong",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Angela Lee",
+                        "id": "10153703111194265"
+                    },
+                    "message": "RIP Mr Helmut Schmidt",
+                    "created_time": "2015-11-11T09:36:53+0000",
+                    "id": "999141290148577_999170200145686",
+                    "sentiment": {
+                        "job_id": "999141290148577_999170200145686",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Shilpi Banerjee",
+                        "id": "10208059956599557"
+                    },
+                    "message": "May his soul rest in peace ..",
+                    "created_time": "2015-11-11T09:49:48+0000",
+                    "id": "999141290148577_999172896812083",
+                    "sentiment": {
+                        "job_id": "999141290148577_999172896812083",
+                        "sentiment_score": "0.62328005",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ram Janam Misra",
+                        "id": "10153673697548704"
+                    },
+                    "message": "Both Great Statesmen who shared many novel ideas for the benefit of their respective countries",
+                    "created_time": "2015-11-11T09:51:36+0000",
+                    "id": "999141290148577_999173233478716",
+                    "sentiment": {
+                        "job_id": "999141290148577_999173233478716",
+                        "sentiment_score": "0.545",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great Statesmen",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "novel ideas",
+                                "sentiment": "0.545"
+                            },
+                            {
+                                "theme": "respective countries",
+                                "sentiment": "0.545"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Dao Phong Lam",
+                        "id": "1916560025235991"
+                    },
+                    "message": "My sympathy",
+                    "created_time": "2015-11-11T10:18:03+0000",
+                    "id": "999141290148577_999179050144801",
+                    "sentiment": {
+                        "job_id": "999141290148577_999179050144801",
+                        "sentiment_score": "0.42863724",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Shahid Kamal",
+                        "id": "1661935817399458"
+                    },
+                    "message": "Two great chapters of the history have completed and closed for ever",
+                    "created_time": "2015-11-11T10:21:17+0000",
+                    "id": "999141290148577_999179990144707",
+                    "sentiment": {
+                        "job_id": "999141290148577_999179990144707",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great chapters",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jackson Gan",
+                        "id": "1034406983265827"
+                    },
+                    "message": "Our tiny nation has no lack of friends from powerful nations, that's remarkable.",
+                    "created_time": "2015-11-11T10:22:40+0000",
+                    "id": "999141290148577_999180303478009",
+                    "sentiment": {
+                        "job_id": "999141290148577_999180303478009",
+                        "sentiment_score": "0.5833334",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "tiny nation",
+                                "sentiment": "0.5833334"
+                            },
+                            {
+                                "theme": "powerful nations",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Tan Francis",
+                        "id": "141654906191834"
+                    },
+                    "message": "2 great man changing the world for us to stay in comfort. My Sincere thanks",
+                    "created_time": "2015-11-11T10:27:55+0000",
+                    "id": "999141290148577_999181873477852",
+                    "sentiment": {
+                        "job_id": "999141290148577_999181873477852",
+                        "sentiment_score": "0.5046667",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great man",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "Sincere thanks",
+                                "sentiment": "0.49"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Yan Lailin",
+                        "id": "1490445714584274"
+                    },
+                    "message": "Yes we have lost two great leaders in 2015. May they rest in Eternal Peace. As for us living, may we remember that even our smallest and quietest acts of service..... can be of great encouragement and influence to others...making this world a better place to live.",
+                    "created_time": "2015-11-11T10:28:40+0000",
+                    "id": "999141290148577_999182113477828",
+                    "sentiment": {
+                        "job_id": "999141290148577_999182113477828",
+                        "sentiment_score": "0.24354503",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leaders",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "great encouragement",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ser Anna",
+                        "id": "1513155975671603"
+                    },
+                    "message": "RIP Mr Helmut Schmidt",
+                    "created_time": "2015-11-11T10:30:25+0000",
+                    "id": "999141290148577_999182680144438",
+                    "sentiment": {
+                        "job_id": "999141290148577_999182680144438",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Valerine Siew Chun",
+                        "id": "10153747216238875"
+                    },
+                    "message": "So sad and thk Q for sharing this news with us PM Sir - LHL.",
+                    "created_time": "2015-11-11T10:34:24+0000",
+                    "id": "999141290148577_999184410144265",
+                    "sentiment": {
+                        "job_id": "999141290148577_999184410144265",
+                        "sentiment_score": "-0.48000002",
+                        "sentiment_polarity": "negative",
+                        "category": [
+                            {
+                                "topic": "Journalism",
+                                "strength_score": "1.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Geeng Jian Sean Cheong",
+                        "id": "1125315707493771"
+                    },
+                    "message": "Alvin Yeow",
+                    "created_time": "2015-11-11T10:43:28+0000",
+                    "id": "999141290148577_999187183477321",
+                    "sentiment": {
+                        "job_id": "999141290148577_999187183477321",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Alvin Yeow",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Chantha Pheak",
+                        "id": "112188339145938"
+                    },
+                    "message": "I'm very miss him  but I hope u same like your father is very good man ! 👍👍👍💕💞💞💞",
+                    "created_time": "2015-11-11T10:43:37+0000",
+                    "id": "999141290148577_999187263477313",
+                    "sentiment": {
+                        "job_id": "999141290148577_999187263477313",
+                        "sentiment_score": "0.9040001",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "👍💕💞💞",
+                                "sentiment": "0.41666666"
+                            },
+                            {
+                                "theme": "good man",
+                                "sentiment": "1.0680001"
+                            },
+                            {
+                                "theme": "💞",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Edwin Bhs",
+                        "id": "181156122228178"
+                    },
+                    "message": "Gambateh Hsien Loong, I like the book with title <a picture in life> which had published with the collaboration byThe Straits Times and Lianhe Zaobao. \nFlipped through the beginning of first page until the last of the cover page, make me think that the time flies, from empty to full, zero to hero. Saw that you're holding a binocular in the old picture while sir LKY bring his son out for 视察。 If not mistaken the the person above could had also appeared in the old picture while the conferencing between Henry Kissinger and sir LKY. \nThanks for sharing the life's story.  \nregards,\nsomeone far from malaysia.",
+                    "created_time": "2015-11-11T10:44:24+0000",
+                    "id": "999141290148577_999187590143947",
+                    "sentiment": {
+                        "job_id": "999141290148577_999187590143947",
+                        "sentiment_score": "0.39372075",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "cover page",
+                                "sentiment": "0.62697613"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Hsien Loong",
+                                "sentiment": "2.3216276"
+                            },
+                            {
+                                "entity": "Henry Kissinger",
+                                "sentiment": "2.45"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Josephine Lim",
+                        "id": "10153739025641600"
+                    },
+                    "message": "2 Great Leaders.....RIP......",
+                    "created_time": "2015-11-11T10:45:46+0000",
+                    "id": "999141290148577_999187986810574",
+                    "sentiment": {
+                        "job_id": "999141290148577_999187986810574",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Bryan Paulding",
+                        "id": "428157344034835"
+                    },
+                    "message": "Thank you for sharing this with us PM. They were both great leaders and have left us important legacies",
+                    "created_time": "2015-11-11T10:47:37+0000",
+                    "id": "999141290148577_999188443477195",
+                    "sentiment": {
+                        "job_id": "999141290148577_999188443477195",
+                        "sentiment_score": "0.4666667",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leaders",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "important legacies",
+                                "sentiment": "0.31"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Rosângela Vieira Brocchi",
+                        "id": "836661016432318"
+                    },
+                    "message": "Two great men...",
+                    "created_time": "2015-11-11T11:04:11+0000",
+                    "id": "999141290148577_999193273476712",
+                    "sentiment": {
+                        "job_id": "999141290148577_999193273476712",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Adrian Cool",
+                        "id": "1508001716192769"
+                    },
+                    "message": "Two giants reuniting in Heaven... rest in peace.",
+                    "created_time": "2015-11-11T11:08:07+0000",
+                    "id": "999141290148577_999195683476471",
+                    "sentiment": {
+                        "job_id": "999141290148577_999195683476471",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Ezhil Arasan",
+                        "id": "540136712811396"
+                    },
+                    "message": "மதிப்பிற்குரிய லி குவான் யூ அவர்களை புகைப்படத்தில் கானும் போதே ஒரு இனம் புரியாத ஆனந்தம், மரியாதை வருகின்றது.",
+                    "created_time": "2015-11-11T11:13:19+0000",
+                    "id": "999141290148577_999197410142965",
+                    "sentiment": {
+                        "job_id": "999141290148577_999197410142965",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Marsie Tepaea",
+                        "id": "1044581832270807"
+                    },
+                    "message": "Another of the old school head of state has gone.",
+                    "created_time": "2015-11-11T11:14:10+0000",
+                    "id": "999141290148577_999197643476275",
+                    "sentiment": {
+                        "job_id": "999141290148577_999197643476275",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "school head",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Sandra Dean",
+                        "id": "10153783633898307"
+                    },
+                    "message": "Chris Schneider sorry for your country's loss - he was a good friend of our late founding father LKY",
+                    "created_time": "2015-11-11T11:22:43+0000",
+                    "id": "999141290148577_999200596809313",
+                    "sentiment": {
+                        "job_id": "999141290148577_999200596809313",
+                        "sentiment_score": "-0.18974538",
+                        "sentiment_polarity": "negative",
+                        "theme": [
+                            {
+                                "theme": "good friend",
+                                "sentiment": "0.4"
+                            },
+                            {
+                                "theme": "founding father",
+                                "sentiment": "-0.18974538"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Chris Schneider",
+                                "sentiment": "-0.7897454"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Rice Teo",
+                        "id": "10207964522101197"
+                    },
+                    "message": "Great men think alike",
+                    "created_time": "2015-11-11T11:25:47+0000",
+                    "id": "999141290148577_999202243475815",
+                    "sentiment": {
+                        "job_id": "999141290148577_999202243475815",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great men",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Cheng Kim Siang",
+                        "id": "1198782800135729"
+                    },
+                    "message": "R.I.P",
+                    "created_time": "2015-11-11T11:28:58+0000",
+                    "id": "999141290148577_999202906809082",
+                    "sentiment": {
+                        "job_id": "999141290148577_999202906809082",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Yok Moi  Goh",
+                        "id": "1719260421637672"
+                    },
+                    "message": "又一伟人离世，也是建国总理的好朋友，願他们在极乐世界相会叙旧！",
+                    "created_time": "2015-11-11T11:30:31+0000",
+                    "id": "999141290148577_999203283475711",
+                    "sentiment": {
+                        "job_id": "999141290148577_999203283475711",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "BenHawk Ng",
+                        "id": "573858802766596"
+                    },
+                    "message": "These are the 2 Great leaders I adore since my youth. Why I can't be like them? Chanellor Helmut Schmidt died on my birth day, what a great day to die?",
+                    "created_time": "2015-11-11T11:31:00+0000",
+                    "id": "999141290148577_999203470142359",
+                    "sentiment": {
+                        "job_id": "999141290148577_999203470142359",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great leaders",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "great day",
+                                "sentiment": "0.4"
+                            },
+                            {
+                                "theme": "birth day",
+                                "sentiment": "0.5"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Danny Wilson",
+                        "id": "10153797245975929"
+                    },
+                    "message": "Brilliant first name",
+                    "created_time": "2015-11-11T11:35:02+0000",
+                    "id": "999141290148577_999205353475504",
+                    "sentiment": {
+                        "job_id": "999141290148577_999205353475504",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Janarie Donald",
+                        "id": "10206995780665906"
+                    },
+                    "message": "Our deepest condolences to German loss. Amen",
+                    "created_time": "2015-11-11T11:37:13+0000",
+                    "id": "999141290148577_999206076808765",
+                    "sentiment": {
+                        "job_id": "999141290148577_999206076808765",
+                        "sentiment_score": "-0.6",
+                        "sentiment_polarity": "negative",
+                        "theme": [
+                            {
+                                "theme": "German loss",
+                                "sentiment": "-0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "黄奕祥",
+                        "id": "168012190211896"
+                    },
+                    "message": "愿他们乘愿再来，能在为这个世界打造，为这个娑婆世界，打造为大同世界。",
+                    "created_time": "2015-11-11T11:38:03+0000",
+                    "id": "999141290148577_999206283475411",
+                    "sentiment": {
+                        "job_id": "999141290148577_999206283475411",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Bryan Sim",
+                        "id": "777993475639171"
+                    },
+                    "message": "Sad 2015",
+                    "created_time": "2015-11-11T11:39:09+0000",
+                    "id": "999141290148577_999206743475365",
+                    "sentiment": {
+                        "job_id": "999141290148577_999206743475365",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Bryan Sim",
+                        "id": "777993475639171"
+                    },
+                    "message": "Looking forward to 2016",
+                    "created_time": "2015-11-11T11:39:21+0000",
+                    "id": "999141290148577_999206836808689",
+                    "sentiment": {
+                        "job_id": "999141290148577_999206836808689",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Janet Tan",
+                        "id": "1079764758701433"
+                    },
+                    "message": "M",
+                    "created_time": "2015-11-11T11:39:37+0000",
+                    "id": "999141290148577_999206940142012",
+                    "sentiment": {
+                        "job_id": "999141290148577_999206940142012",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Caitlyn Koh",
+                        "id": "10153286217863367"
+                    },
+                    "message": "Really enjoyed reading the book. Sad to know that another great leader has passed on. RIP Mr Helmut Schmidt.",
+                    "created_time": "2015-11-11T11:50:55+0000",
+                    "id": "999141290148577_999212286808144",
+                    "sentiment": {
+                        "job_id": "999141290148577_999212286808144",
+                        "sentiment_score": "0.27099466",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leader",
+                                "sentiment": "0.6"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jennie Law",
+                        "id": "1176600479034525"
+                    },
+                    "message": "Rest in peace Mr Helmut Schmidt!",
+                    "created_time": "2015-11-11T11:53:35+0000",
+                    "id": "999141290148577_999213396808033",
+                    "sentiment": {
+                        "job_id": "999141290148577_999213396808033",
+                        "sentiment_score": "1.0388",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "1.0388"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Mali Sakun",
+                        "id": "1509802092650424"
+                    },
+                    "message": "Rest in peace mr Helmut Schmidt. ...!",
+                    "created_time": "2015-11-11T12:07:56+0000",
+                    "id": "999141290148577_999217873474252",
+                    "sentiment": {
+                        "job_id": "999141290148577_999217873474252",
+                        "sentiment_score": "1.0388",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "1.0388"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Inis-Janine Klinger",
+                        "id": "1073484555995393"
+                    },
+                    "message": "Great leaders. May both Rest in Peace.",
+                    "created_time": "2015-11-11T12:14:49+0000",
+                    "id": "999141290148577_999220353474004",
+                    "sentiment": {
+                        "job_id": "999141290148577_999220353474004",
+                        "sentiment_score": "0.61164004",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great leaders",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "De Ju",
+                        "id": "10207946437319168"
+                    },
+                    "message": "a great man has left!",
+                    "created_time": "2015-11-11T12:15:44+0000",
+                    "id": "999141290148577_999220560140650",
+                    "sentiment": {
+                        "job_id": "999141290148577_999220560140650",
+                        "sentiment_score": "1.2",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great man",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Pearl Low",
+                        "id": "10205579968081756"
+                    },
+                    "message": "May these 2 great people rest in peace. Om mani padme hum",
+                    "created_time": "2015-11-11T12:30:47+0000",
+                    "id": "999141290148577_999225823473457",
+                    "sentiment": {
+                        "job_id": "999141290148577_999225823473457",
+                        "sentiment_score": "0.4597",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great people",
+                                "sentiment": "0.4"
+                            },
+                            {
+                                "theme": "padme hum",
+                                "sentiment": "0.22985"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Jeremy Tan",
+                        "id": "10153546212190845"
+                    },
+                    "message": "Helmut Schmidt is off to meet Great Leader. RIP.",
+                    "created_time": "2015-11-11T12:31:24+0000",
+                    "id": "999141290148577_999225986806774",
+                    "sentiment": {
+                        "job_id": "999141290148577_999225986806774",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Joseph Tan",
+                        "id": "1136811639681077"
+                    },
+                    "message": "Great minds think alike. This truism aptly describes the more than four decades of close relationship among four of the modern world's greatest political leaders. With the passing on of two of them, Mr Lee Kuan Yew in March and Mr Helmut Schmidt, we are now left with Dr Henry Kissinger and Mr George Shultz. Rest in peace, Mr Schmidt.",
+                    "created_time": "2015-11-11T12:32:14+0000",
+                    "id": "999141290148577_999226183473421",
+                    "sentiment": {
+                        "job_id": "999141290148577_999226183473421",
+                        "sentiment_score": "0.40137064",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great minds",
+                                "sentiment": "0.4"
+                            },
+                            {
+                                "theme": "close relationship",
+                                "sentiment": "0.4"
+                            },
+                            {
+                                "theme": "modern world",
+                                "sentiment": "0.48901865"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "-0.241176"
+                            },
+                            {
+                                "entity": "Lee Kuan Yew",
+                                "sentiment": "-0.241176"
+                            },
+                            {
+                                "entity": "Henry Kissinger",
+                                "sentiment": "-0.241176"
+                            },
+                            {
+                                "entity": "George Shultz",
+                                "sentiment": "-0.241176"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Tommy Tay",
+                        "id": "876519359134559"
+                    },
+                    "message": "RIP",
+                    "created_time": "2015-11-11T12:38:27+0000",
+                    "id": "999141290148577_999228723473167",
+                    "sentiment": {
+                        "job_id": "999141290148577_999228723473167",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Botak Lim",
+                        "id": "10206863182351400"
+                    },
+                    "message": "Dear Sir, rest in peace.",
+                    "created_time": "2015-11-11T12:43:15+0000",
+                    "id": "999141290148577_999230760139630",
+                    "sentiment": {
+                        "job_id": "999141290148577_999230760139630",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Michael Lua",
+                        "id": "949041708506767"
+                    },
+                    "message": "Great minds think alike.",
+                    "created_time": "2015-11-11T12:48:40+0000",
+                    "id": "999141290148577_999232533472786",
+                    "sentiment": {
+                        "job_id": "999141290148577_999232533472786",
+                        "sentiment_score": "0.4",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "Great minds",
+                                "sentiment": "0.4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Nojin Rai",
+                        "id": "1100419983304307"
+                    },
+                    "message": "These two leaders were really visionary. Salute them .",
+                    "created_time": "2015-11-11T12:48:58+0000",
+                    "id": "999141290148577_999232626806110",
+                    "sentiment": {
+                        "job_id": "999141290148577_999232626806110",
+                        "sentiment_score": "0.74100006",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "really visionary",
+                                "sentiment": "1.0320001"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Brian Dong",
+                        "id": "916714441698177"
+                    },
+                    "message": "R .I .P",
+                    "created_time": "2015-11-11T12:53:56+0000",
+                    "id": "999141290148577_999234080139298",
+                    "sentiment": {
+                        "job_id": "999141290148577_999234080139298",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Daniela Ringel",
+                        "id": "1079149142119079"
+                    },
+                    "message": "Thank you Sir. Your father and our deeply missed and wonderful chancellor, had a wonderful friendship. Now they can both be together as friends again. Both will be deeply missed around us, but we always will cherish all the wonderful moments in life, we all could share their views and life with all of us. RIP Mr. Lee Kuan Yew and Herr Helmut Schmidt.",
+                    "created_time": "2015-11-11T12:54:33+0000",
+                    "id": "999141290148577_999234193472620",
+                    "sentiment": {
+                        "job_id": "999141290148577_999234193472620",
+                        "sentiment_score": "0.39056668",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "wonderful chancellor",
+                                "sentiment": "0.8"
+                            },
+                            {
+                                "theme": "wonderful friendship",
+                                "sentiment": "0.645"
+                            },
+                            {
+                                "theme": "wonderful moments",
+                                "sentiment": "1.2"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Lee Kuan Yew",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Lyn Pat",
+                        "id": "922345837851136"
+                    },
+                    "message": "2015 seen the passing of an era...some of the greatest, passing one by one.  Sob ! Sob!",
+                    "created_time": "2015-11-11T12:56:54+0000",
+                    "id": "999141290148577_999234836805889",
+                    "sentiment": {
+                        "job_id": "999141290148577_999234836805889",
+                        "sentiment_score": "0.75",
+                        "sentiment_polarity": "positive"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kemmy Foo",
+                        "id": "10153626398373898"
+                    },
+                    "message": "Indeed, the passing of two great leaders ! May you rest in peace, Mr Schmidt.",
+                    "created_time": "2015-11-11T13:04:51+0000",
+                    "id": "999141290148577_999237426805630",
+                    "sentiment": {
+                        "job_id": "999141290148577_999237426805630",
+                        "sentiment_score": "1.03164",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leaders",
+                                "sentiment": "0.6"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "0.5194"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Madeleine Heng",
+                        "id": "1494025987592711"
+                    },
+                    "message": "My deepest condolences to the family of Chancellor Helmut Schmidt. Rest in peace! 💐🙏",
+                    "created_time": "2015-11-11T13:14:03+0000",
+                    "id": "999141290148577_999240336805339",
+                    "sentiment": {
+                        "job_id": "999141290148577_999240336805339",
+                        "sentiment_score": "0.6694",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Keynes Lam",
+                        "id": "10153371785243681"
+                    },
+                    "message": "Mr. Schmidt & Mr. Lee are also greatest statesman.",
+                    "created_time": "2015-11-11T13:22:23+0000",
+                    "id": "999141290148577_999242613471778",
+                    "sentiment": {
+                        "job_id": "999141290148577_999242613471778",
+                        "sentiment_score": "0.8426999",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Mr. Lee",
+                                "sentiment": "0.8426999"
+                            },
+                            {
+                                "entity": "Mr. Schmidt",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Koi Ey",
+                        "id": "429067770621345"
+                    },
+                    "message": "Rip",
+                    "created_time": "2015-11-11T13:26:44+0000",
+                    "id": "999141290148577_999251473470892",
+                    "sentiment": {
+                        "job_id": "999141290148577_999251473470892",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Shane Andrew Tan",
+                        "id": "627666300704672"
+                    },
+                    "message": "不管你是大人物？還是小人物，只要能真正落實執行任務完成使命，去愛你的朋友國民我們都會永遠懷念您",
+                    "created_time": "2015-11-11T13:32:29+0000",
+                    "id": "999141290148577_999253586804014",
+                    "sentiment": {
+                        "job_id": "999141290148577_999253586804014",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Kathryn Liew",
+                        "id": "1518577305119183"
+                    },
+                    "message": "Rest in peace Mr Schmidt.",
+                    "created_time": "2015-11-11T13:40:45+0000",
+                    "id": "999141290148577_999256076803765",
+                    "sentiment": {
+                        "job_id": "999141290148577_999256076803765",
+                        "sentiment_score": "0.5194",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "0.5194"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Wei Zhang",
+                        "id": "10153241931551814"
+                    },
+                    "message": "Helmut Schmidt R.I.P and respects",
+                    "created_time": "2015-11-11T13:55:16+0000",
+                    "id": "999141290148577_999260333470006",
+                    "sentiment": {
+                        "job_id": "999141290148577_999260333470006",
+                        "sentiment_score": "0.72",
+                        "sentiment_polarity": "positive",
+                        "entity": [
+                            {
+                                "entity": "Helmut Schmidt",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Susan Tan",
+                        "id": "1606160092991875"
+                    },
+                    "message": "We have lost yet another great leader. Rest in peace Mr Schmidt🌹",
+                    "created_time": "2015-11-11T13:58:10+0000",
+                    "id": "999141290148577_999261290136577",
+                    "sentiment": {
+                        "job_id": "999141290148577_999261290136577",
+                        "sentiment_score": "0.34786007",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leader",
+                                "sentiment": "0.90000004"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "0.5194"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Lee Yong Yee",
+                        "id": "10153420342093292"
+                    },
+                    "message": "Rip",
+                    "created_time": "2015-11-11T13:58:38+0000",
+                    "id": "999141290148577_999261390136567",
+                    "sentiment": {
+                        "job_id": "999141290148577_999261390136567",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "魏征",
+                        "id": "163335970686923"
+                    },
+                    "message": "斯人已逝，风范长存",
+                    "created_time": "2015-11-11T14:01:14+0000",
+                    "id": "999141290148577_999262153469824",
+                    "sentiment": {
+                        "job_id": "999141290148577_999262153469824",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Joyce Foo",
+                        "id": "10153719072267485"
+                    },
+                    "message": "Salute to Mr Schmidt. It's sad we lost 2 great men this year - Mr Lee Kuan Yew and Mr Schmidt but we know they have left a great legacy with us. They have made great impact to this world.",
+                    "created_time": "2015-11-11T14:05:29+0000",
+                    "id": "999141290148577_999263786802994",
+                    "sentiment": {
+                        "job_id": "999141290148577_999263786802994",
+                        "sentiment_score": "0.018545017",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "great men",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "great legacy",
+                                "sentiment": "0.90000004"
+                            },
+                            {
+                                "theme": "great impact",
+                                "sentiment": "0.6"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Mr Schmidt",
+                                "sentiment": "1.05"
+                            },
+                            {
+                                "entity": "Lee Kuan Yew",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Sean Goodman",
+                        "id": "10201398353236996"
+                    },
+                    "message": "Boo hoo hoo :'(",
+                    "created_time": "2015-11-11T14:12:27+0000",
+                    "id": "999141290148577_999265840136122",
+                    "sentiment": {
+                        "job_id": "999141290148577_999265840136122",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral"
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Andrew Ast",
+                        "id": "10208070204981209"
+                    },
+                    "message": "Late Mr Helmut Schmid, was a great leader in Europe, in the world. I respect his view, together with former French President J. d Estain, to regard the EU of 27/8 nations as a boat drifting on the sea. What we began we are  to conduct further, but on has to correct the line. Mr Schmid at the time in Europe  we are work together, the rift of wars we are not to repeat. but today EU is like a motherless child sometimes.",
+                    "created_time": "2015-11-11T14:22:34+0000",
+                    "id": "999141290148577_999269873469052",
+                    "sentiment": {
+                        "job_id": "999141290148577_999269873469052",
+                        "sentiment_score": "0.20484486",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "great leader",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "theme": "motherless child",
+                                "sentiment": "0.10242243"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Europe",
+                                "sentiment": "0.058460355"
+                            },
+                            {
+                                "entity": "Mr Helmut Schmid",
+                                "sentiment": "-0.36923608"
+                            },
+                            {
+                                "entity": "President",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "David Goh",
+                        "id": "10203844008941269"
+                    },
+                    "message": "Mr. Schmidt is a great leader and co-founder of EURO and reunification of Europe!",
+                    "created_time": "2015-11-11T14:25:18+0000",
+                    "id": "999141290148577_999270620135644",
+                    "sentiment": {
+                        "job_id": "999141290148577_999270620135644",
+                        "sentiment_score": "0.6",
+                        "sentiment_polarity": "positive",
+                        "theme": [
+                            {
+                                "theme": "great leader",
+                                "sentiment": "0.6"
+                            }
+                        ],
+                        "entity": [
+                            {
+                                "entity": "Mr. Schmidt",
+                                "sentiment": "0.6"
+                            },
+                            {
+                                "entity": "Europe",
+                                "sentiment": "0.6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Trần Neil",
+                        "id": "152919418396191"
+                    },
+                    "message": "Nhật hoàng băng hà\nCả thế giới đều mừng \nCàn khôn đẩu chuyển",
+                    "created_time": "2015-11-11T14:33:19+0000",
+                    "id": "999141290148577_999273193468720",
+                    "sentiment": {
+                        "job_id": "999141290148577_999273193468720",
+                        "sentiment_score": "0.0",
+                        "sentiment_polarity": "neutral",
+                        "theme": [
+                            {
+                                "theme": "thế giới đều mừng",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "theme": "hoàng băng hà",
+                                "sentiment": "0.0"
+                            },
+                            {
+                                "theme": "khôn đẩu chuyển",
+                                "sentiment": "0.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "from": {
+                        "name": "Geraldine Ho",
+                        "id": "10154318795814027"
+                    },
+                    "message": "Is so sadden  to read the news that the world has lost another great leader. How many great leaders are there to guide us?",
+                    "created_time": "2015-11-11T14:40:21+0000",
+                    "id": "999141290148577_999275396801833",
+                    "sentiment": {
+                        "job_id": "999141290148577_999275396801833",
+                        "sentiment_score": "-0.17807889",
+                        "sentiment_polarity": "negative",
+                        "theme": [
+                            {
+                                "theme": "great leader",
+                                "sentiment": "1.2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
